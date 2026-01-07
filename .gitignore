@@ -1,0 +1,18 @@
+# Hide ALL junk
+venv/
+ven/
+Paironix/
+__pycache__/
+*.csv
+*.xlsx
+image.png
+*.pyc
+03_features_fixed.py
+04_roommate.png
+fixed.py
+Paironix_clean_data.py
+Paironix_load_data.py
+roomate_clean.csv
+top_matches.csv
+hostel_matches.csv
+hostel_rooms_final.csv
